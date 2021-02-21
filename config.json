@@ -1,0 +1,17 @@
+
+{
+  "mac_address":"xx:xx:xx:xx:xx:xx",
+  "uuid1":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "uuid2":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  ,"uuid3":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+  ,"open_state":1
+  ,"max_count":5
+  ,"check_interval":3.0
+
+
+
+  ,"url":"https://maker.ifttt.com/trigger/xxxxeventnamexxxx/with/key/xxxkeyxxx"
+  ,"message":"Key is Opening"
+  ,"notify_max_count":3
+}
